@@ -1,0 +1,40 @@
+body {
+
+    background-color: pink;
+    font-family: 'Rubik';
+}
+
+section {
+
+    width: 500px;
+    height: 100px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    text-align: center;
+    
+}
+
+img {
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    border-radius: 50%;
+}
+
+a {
+
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+
+    background-color: darkgray;
+}

@@ -1,0 +1,97 @@
+@media (max-width: 320px) { 
+
+    section {
+        flex-direction: column;
+        width: 180px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 20%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 400px) { 
+
+    section {
+        flex-direction: column;
+        width: 250px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 16%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 480px) { 
+
+    section {
+        flex-direction: column;
+        width: 300px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 16%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 520px) { 
+
+    section {
+        flex-direction: column;
+        width: 300px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 18%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 600px) { 
+
+    section {
+        flex-direction: column;
+        width: 300px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 24%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 640px) { 
+
+    section {
+        flex-direction: column;
+        width: 350px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 20%;
+        text-align: center;
+        position: relative;
+    }
+ }
+
+ @media (max-width: 700px) { 
+
+    section {
+        flex-direction: column;
+        width: 400px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 17%;
+        text-align: center;
+        position: relative;
+    }
+ }
