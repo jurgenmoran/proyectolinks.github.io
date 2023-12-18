@@ -25,3 +25,17 @@
         
     }
  }
+
+ @media (width: 500px) { 
+
+    .part1 {
+        flex-direction: column;
+        width: 400px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 10%;
+        text-align: center;
+        
+    }
+ }
