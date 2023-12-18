@@ -4,14 +4,15 @@ body {
     font-family: 'Rubik';
 }
 
-section {
+.part1 {
 
+    text-align: center;
     width: 500px;
     height: 100px;
     position: absolute;
-    top: 10%;
-    /* left: 30%; */
-    text-align: center;
+    top: 15%;
+    left: 35%;
+    /* background-color: aqua; */
     
 }
 
