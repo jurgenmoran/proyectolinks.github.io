@@ -39,3 +39,17 @@
         
     }
  }
+
+ @media (width: 420px) { 
+
+    .part1 {
+        flex-direction: column;
+        width: 300px;
+        height: 50px;
+        position: absolute;
+        top: 10%;
+        left: 15%;
+        text-align: center;
+        
+    }
+ }
