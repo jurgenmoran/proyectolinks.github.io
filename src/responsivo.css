@@ -54,15 +54,15 @@
     }
  } */
 
- @media (max-width: 575px), (max-width: 576px), (max-width: 540px) { 
+ @media (max-width: 607px), (max-width: 575px), (max-width: 576px), (max-width: 540px), (max-width: 498px) { 
 
     .part1 {
         flex-direction: column;
-        width: 300px;
+        width: 290px;
         height: 50px;
         position: absolute;
         top: 15%;
-        left: 17%;
+        left: 15%;
         text-align: center;
         
     }
