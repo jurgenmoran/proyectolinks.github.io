@@ -1,6 +1,6 @@
 @media (max-width: 320px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 180px;
         height: 50px;
@@ -14,7 +14,7 @@
 
  @media (max-width: 400px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 250px;
         height: 50px;
@@ -28,7 +28,7 @@
 
  @media (max-width: 480px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 300px;
         height: 50px;
@@ -42,7 +42,7 @@
 
  @media (max-width: 520px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 300px;
         height: 50px;
@@ -56,7 +56,7 @@
 
  @media (max-width: 600px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 300px;
         height: 50px;
@@ -70,7 +70,7 @@
 
  @media (max-width: 640px) { 
 
-    section {
+    s.part1 {
         flex-direction: column;
         width: 350px;
         height: 50px;
@@ -84,7 +84,7 @@
 
  @media (max-width: 700px) { 
 
-    section {
+    .part1 {
         flex-direction: column;
         width: 400px;
         height: 50px;
