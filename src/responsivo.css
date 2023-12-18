@@ -54,7 +54,7 @@
     }
  }
 
- @media (width: 575px), (width: 576px) { 
+ @media (width: 575px), (width: 576px), (width: 540px) { 
 
     .part1 {
         flex-direction: column;
@@ -62,7 +62,7 @@
         height: 50px;
         position: absolute;
         top: 5%;
-        left: 20%;
+        left: 18%;
         text-align: center;
         
     }
